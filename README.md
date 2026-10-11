@@ -28,7 +28,7 @@ flowchart TD
     A([Launch Application]) --> B[Login Screen]
     B --> C{New User?}
     C -- Yes --> D[User Enrollment]
-    D --> B
+    D -- No --> B
     C -- No --> E[Firebase Authentication]
     E --> F{Login Successful?}
     F -- No --> B
