@@ -79,5 +79,5 @@ This project is a development prototype. Firebase Authentication and biometric v
 
 <p align="center">
   <b>🛡️ Secure Defence Network</b><br>
-  Built with Flutter • Focused on Secure Access
+   Focused on Secure Access
 </p>
